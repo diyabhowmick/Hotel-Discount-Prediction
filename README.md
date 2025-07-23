@@ -1,6 +1,6 @@
-# Hotel-Discount-Prediction
+# Hotel-Rating-Prediction
 
-# Hotel Discount Prediction Using Web Scraping & Machine Learning
+# Hotel Rating Prediction Using Web Scraping & Machine Learning
 This project focuses on analyzing hotel ratings and predicting discount percentages using machine learning. Data is collected from Trivago via Selenium-based web scraping, and predictive models are built to estimate discounts based on location, price, property type, and user ratings.
 
 ## 📌 Project Overview
